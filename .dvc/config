@@ -1,4 +1,6 @@
 [core]
-    remote = myremote
+    remote = dvcstore
 ['remote "myremote"']
     url = C:\Users\Amit\AppData\Local\Temp
+['remote "dvcstore"']
+    url = s3://amittest-s3
